@@ -1,0 +1,3 @@
+# config hbs string double quotes
+[*.hbs]
+indent_size = 2
